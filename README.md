@@ -2,7 +2,11 @@
 
 ## 🌟 About Me
 - 🎓 富山高等専門学校 制御情報システム工学専攻（Toyama National Institute of Technology, Control and Information Systems Engineering Program） 在学  
-- 📘 応用情報技術者試験 合格  
+- 📘 応用情報技術者試験 合格
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkkk-ui&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkk-ui&layout=compact&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 **Languages:**  
@@ -36,10 +40,6 @@
 - **Research: Online Graph Classification for Community Estimation**  
   Conducted research on graph-based machine learning methods to estimate community structures in dynamic networks.  
   → Focused on scalable algorithms and advanced data modeling.  
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkkk-ui&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkk-ui&layout=compact&theme=tokyonight)
 
 ## 🌐 Links
 - X: [https://x.com/komataru0110](#)
