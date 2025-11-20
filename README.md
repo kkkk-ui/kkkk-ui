@@ -1,10 +1,8 @@
 # 👋 Hello, I'm Kota Kawakami
 
 ## 🌟 About Me
-- Computer Science student passionate about **system design** and **scalable applications**  
-- Experienced in both **software development** and **electronics prototyping**  
-- Strong interest in **automation, wireless communication, and modern web frameworks**  
-- Seeking opportunities to contribute to innovative projects and grow as a full-stack engineer  
+- 🎓 富山高等専門学校 制御情報システム工学専攻（Toyama National Institute of Technology, Control and Information Systems Engineering Program） 在学  
+- 📘 応用情報技術者試験 合格  
 
 ## 🛠️ Tech Stack
 **Languages:**  
