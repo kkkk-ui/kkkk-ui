@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kouta
+# 👋 Hello, I'm Kota Kawakami
 
 ## 🌟 About Me
 - Computer Science student passionate about **system design** and **scalable applications**  
@@ -40,9 +40,7 @@
   → Focused on scalable algorithms and advanced data modeling.  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🌐 Links
-- Portfolio: [your-portfolio-link](#)
-- LinkedIn: [your-linkedin-link](#)
+- X: [https://x.com/komataru0110](#)
+- pixiv: [https://pixiv.net/users/35273188](#)
